@@ -1,4 +1,4 @@
-echo "# stackblitz" >> README.md
+echo "# www.stackblitz.com" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
